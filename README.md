@@ -1,8 +1,8 @@
 # Graphics-Offline-1
 
 There are two tasks each carrying the same weight.
-1. Fully Controllable Camera (1.exe)
-2. Sphere to/from Cube (1.exe)
+1. Fully Controllable Camera (OpenGL.exe)
+2. Sphere to/from Cube (OpenGL.exe)
 
 
 1. Fully Controllable Camera (1.exe)
