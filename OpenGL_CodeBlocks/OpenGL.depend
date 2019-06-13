@@ -11,3 +11,15 @@
 	<GL/gl.h>
 	<GL/glu.h>
 
+1560449848 source:d:\education\level-4 term-1 files\offlines\graphics\offline1\given materials\opengl\offline 1\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\education\level-4 term-1 files\offlines\graphics\offline1\given materials\opengl\offline 1\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
