@@ -54,4 +54,4 @@ Draw one eighth of a sphere, one fourth of a cylinder and a square once.
 Use transformations (translation, rotation etc.) to put them in the right places.
 
 [ N.B. : I did not draw one eighth of a sphere, instead I drew upper hemisphere and rotated & translated it,
-      and also I did not drew one fourth of a cylinder, instead I drew whole cylinder in implementation. ]
+      and also I did not draw one fourth of a cylinder, instead I drew whole cylinder in implementation. ]
