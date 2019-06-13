@@ -2,24 +2,38 @@
 
 There are two tasks each carrying the same weight.
 1. Fully Controllable Camera (OpenGL.exe)
+
 2. Sphere to/from Cube (OpenGL.exe)
 
 
 1. Fully Controllable Camera (1.exe)
+
 up arrow - move forward
+
 down arrow - move backward
+
 right arrow - move right
+
 left arrow - move left
+
 PgUp - move up
+
 PgDn - move down
+
 1 - rotate/look left
+
 2 - rotate/look right
+
 3 - look up
+
 4 - look down
+
 5 - tilt clockwise
+
 6 - tilt counterclockwise
 
 Hint:
+
 Maintain 4 global variables: 1 3d point pos to indicate the position of the camera and 
 3 3d unit vectors u, r, and l to indicate the up, right, and look directions respectively. 
 u, r, and l must be perpendicular to each other, i.e., u.r = r.l = l.u = 0, 
@@ -47,7 +61,9 @@ If you maintain pos, u, r, and l in this way, your gluLookAt statement will look
     
  
 2. Sphere to/from Cube (1.exe)
+
 Home - cube to sphere
+
 End - sphere to cube
 
 Draw one eighth of a sphere, one fourth of a cylinder and a square once.
